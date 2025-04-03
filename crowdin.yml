@@ -1,0 +1,3 @@
+files:
+  - source: /deltaballin/en/*yml
+    translation: /deltaballin/%two_letters_code%/%original_file_name%
