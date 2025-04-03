@@ -1,0 +1,7 @@
+"not-leader": "You are not the leader of the club."
+"club-left": "You have successfully left the club."
+"club-join": "You have joined {{leader.mention}}'s club."
+"no-club-joined": "You didn't join any club."
+"no-club-owned": "No club was owned by {{leader.mention}}"
+"disband-club": "Your club has been successfully disbanded, All of your club members are now kicked out."
+"club-ping-sent": "Club ping has been sent."
